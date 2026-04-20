@@ -360,7 +360,8 @@ int main() {
 }
 ```
 ### Output:
-![Uploading image.png…]()
+<img width="456" height="399" alt="image" src="https://github.com/user-attachments/assets/b7427645-27b8-4114-bbad-8a9325462cb9" />
+
 
 
 # Result:
